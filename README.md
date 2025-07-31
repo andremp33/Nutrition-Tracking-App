@@ -1,6 +1,7 @@
 # 🍎 NutriTracker AI - Aplicação de Nutrição Moderna
 
-Uma aplicação web moderna e intuitiva para rastreamento nutricional com inteligência artificial, desenvolvida com React e Tailwind CSS.
+Uma aplicação web moderna e intuitiva para rastreamento nutricional com inteligência artificial(em teoria) , desenvolvida com React e Tailwind CSS.
+Projeto de iniciativa própria.
 
 ## ✨ Características
 
